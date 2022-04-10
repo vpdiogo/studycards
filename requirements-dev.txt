@@ -1,0 +1,8 @@
+black
+pycodestyle
+flask-debugtoolbar
+flask-shell-ipython
+ipython
+pytest
+pytest-flask
+pytest-cov
