@@ -36,8 +36,8 @@ Install dependencies:
 
 ```
 cd main
-pip3 install requirements-dev.txt
-pip3 install requirements.txt
+pip3 install -r requirements-dev.txt
+pip3 install -r requirements.txt
 ```
 
 Create the file for SECRET KEY:
@@ -50,7 +50,7 @@ Inside the created file, write:
 
 ```
 [default]
-SECRETE_KEY = 'yout-secret-key'
+SECRETE_KEY = 'your-secret-key'
 ```
 
 ## Testing
